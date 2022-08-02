@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on -- BSc Sociology with Data Science
+- 🔭 I’m currently working on -- Kaggle Competitions in R
 - 🌱 I’m currently learning -- R Studio
 - 👯 I’m looking to collaborate on -- R Studio
 - 🤔 I’m looking for help with -- AWS
