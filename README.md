@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on -- Data Analyst for ECC
+- 🔭 I’m currently working on -- Data Analyst for ECPR
 - 🌱 I’m currently learning -- SQL
-- 👯 I’m looking to collaborate on -- Data Analyst for the public sector and ong
+- 👯 I’m looking to collaborate on -- Data Analyst for the public sector and NGO
 - 🤔 I’m looking for help with -- Azure
-- 💬 Tools -- Python, R, SQL and PowerBI
+- 💬 Tools -- Python, R, SQL, PowerBI and PowerApps
 - 📫 How to reach me: -- [LinkedIn Francisco Alamo](https://www.linkedin.com/in/francisco-antonio-alamo-rios-04a3a363/)
 - 😄 Pronouns: -- He/Him
-- ⚡ Fun fact: -- I am half Venezuelan
+- ⚡ Fun fact: -- I am half Venezuelan and half Spanish
