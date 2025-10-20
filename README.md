@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on -- Data Analyst for ECPR
-- 🌱 I’m currently learning -- SQL
+- 🌱 I’m currently learning -- ETL using python
 - 👯 I’m looking to collaborate on -- Data Analyst for the public sector and NGO
 - 🤔 I’m looking for help with -- Azure
 - 💬 Tools -- Python, R, SQL, PowerBI and PowerApps
