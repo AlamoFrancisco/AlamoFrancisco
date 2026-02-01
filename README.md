@@ -14,10 +14,6 @@ I design and build data platforms, ETL pipelines, and analytics products that tu
 ---
 ### 🚀 Featured Project
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlamoFrancisco/TheSpreadSheet/main/public/SpreadsheetLogo.png" width="200" alt="The Spreadsheet Logo"/>
-</p>
-
 **The Spreadsheet – Smart Budgeting App**  
 A personal finance and budgeting platform focused on savings, goals, and long-term financial planning.
 
