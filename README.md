@@ -6,7 +6,6 @@ I design and build data platforms, ETL pipelines, and analytics products that tu
 - 🌱 Currently learning -- Advanced Python, Data Engineering, Machine Learning, and Cloud (Azure)
 - 👯 Open to collaborate on -- Data projects for NGOs, public sector, and research organisations
 - 🤔 Looking for help with -- Azure, cloud architecture, and scalable data platforms
-- 💬 Tech stack -- Python, SQL Server, PostgreSQL, R, Power BI, PowerApps, Power Automate
 - 📫 Connect with me: -- [LinkedIn Francisco Alamo](https://www.linkedin.com/in/francisco-antonio-alamo-rios-04a3a363/)
 - 😄 Pronouns: -- He/Him
 - ⚡ Fun fact: -- I am half Venezuelan 🇻🇪 and half Spanish 🇪🇸
