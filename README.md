@@ -24,8 +24,8 @@ A personal finance and budgeting platform focused on savings, goals, and long-te
 
 ### ⭐ Other Projects
 
-- Data Warehouse ETL Framework  
-- Event Registration Scanner App  
+- Data Warehouse ETL Framework
+- Event Registration Scanner App using PowerApps 
 
 ---
 
